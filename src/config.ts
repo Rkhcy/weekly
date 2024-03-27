@@ -1,13 +1,12 @@
 export const SITE = {
-	title: '潮流周刊',
-	author: 'Tw93',
-	description: '记录工程师 Tw93 的不枯燥生活，每周一发布，欢迎关注',
-	keywords: 'Tw93,Weekly,Blog,前端,macOS,MiaoYan,Pack,Swift',
-	icon: 'https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png',
+	title: '包里有书',
+	author: 'HuYounger',
+	description: '记录看过、听过的有意思的书、播客、文章',
+	keywords: 'Blog,Android',
+	icon: 'https://blog-1258142182.cos.ap-chengdu.myqcloud.com/blog/blog_avatar.png',
 	pic: 'https://gw.alipayobjects.com/zos/k/up/Es7yEg.png',
-	homePage: 'https://weekly.tw93.fun',
-	blogPage: 'https://tw93.fun/',
-	twitterId: 'HiTw93',
-	githubId: 'tw93',
-	repo: 'tw93/weekly',
+	homePage: 'https://okhcy.com',
+	twitterId: 'HuYounger1118',
+	githubId: 'rkhcy',
+	repo: 'Rkhcy/weekly'
 };
