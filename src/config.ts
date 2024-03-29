@@ -5,7 +5,8 @@ export const SITE = {
 	keywords: 'Blog,Android',
 	icon: 'https://blog-1258142182.cos.ap-chengdu.myqcloud.com/blog/blog_avatar.png',
 	pic: 'https://gw.alipayobjects.com/zos/k/up/Es7yEg.png',
-	homePage: 'https://okhcy.com',
+	homePage: 'https://okhcy.fun',
+	blogPage: 'https://okhcy.com/',
 	twitterId: 'HuYounger1118',
 	githubId: 'rkhcy',
 	repo: 'Rkhcy/weekly'
